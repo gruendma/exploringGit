@@ -1,0 +1,12 @@
+#profilfoto {
+    border-radius: 25%;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+#pageHeader { 
+    background-color: orange;
+    opacity: 0.83;
+}
